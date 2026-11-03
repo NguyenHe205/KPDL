@@ -1,0 +1,7 @@
+param,mean_posterior_sd_u,prior_sd_u,mean_ratio_post_over_prior_sd
+kappa,0.2387,0.5774,0.4134
+theta_bar,0.2747,0.5774,0.4758
+nu,0.1745,0.5774,0.3023
+rho,0.1063,0.5774,0.1841
+V0,0.0206,0.5774,0.0356
+H,0.1546,0.5774,0.2677

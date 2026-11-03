@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+approximations_to_fractional_stochastic_volterra_equations-master/
+*.pkl
